@@ -1,2 +1,2 @@
-# pl-landing
-PL Landing Page
+# coming-soon
+pl-coming-soon
